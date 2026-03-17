@@ -1,8 +1,7 @@
 
 # 🌤 Telangana Weather Data Analysis (2021–2025) – Power BI Dashboard
 
-This project presents a multi-dimensional analysis of **Telangana's weather data** from **2021 to 2025**, using **Power BI** to deliver actionable insights across rainfall, temperature, humidity, and wind speed. The dashboard supports climate-aware decision-making for agriculture, infrastructure, and disaster preparedness.
-
+This project analyzes Telangana weather data (2021–2025) using Power BI to track rainfall, temperature, humidity, and wind patterns, helping identify trends and regional variations.
 ---
 
 ## 📊 Project Overview
