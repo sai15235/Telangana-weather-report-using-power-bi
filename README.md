@@ -1,7 +1,7 @@
 # Telangana Weather Data Analysis (2021–2025) – Power BI Dashboard
 
 ## Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Screenshot 2026-03-17 180606.png)
 
 
 
