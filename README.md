@@ -1,4 +1,8 @@
-<
+# Telangana Weather Data Analysis (2021–2025) – Power BI Dashboard
+
+## Dashboard Preview
+![Dashboard](dashboard.png)
+
 
 
 # 🌤 Telangana Weather Data Analysis (2021–2025) – Power BI Dashboard
